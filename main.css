@@ -1,0 +1,28 @@
+.body {
+    margin: 0px;
+
+}
+.first-flag {
+    height: 100px;
+    width: 50px;
+}
+ .first-color {
+     background: green;
+     height: 50px;
+     width: 200px;
+ }
+ .second-color {
+     background: red;
+     height: 50px;
+     width: 200px;
+ }
+ .third-color {
+     background: blue;
+     height: 250px;
+
+ }
+
+.four-color{
+    background: brown;
+    height: 50px;
+}
